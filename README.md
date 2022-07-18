@@ -1,2 +1,2 @@
 # snippet-manager
-Allows peeoplr to upload code snippets for people to see
+Allows peeople to upload code snippets for other people to see
